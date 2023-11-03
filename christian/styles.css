@@ -1,0 +1,33 @@
+
+.img{
+    height: 450px;
+    
+  }
+  .text{
+    color: rgb(245, 244, 248);
+  }
+  @media (max-width: 600px) {
+    .img{
+      width : auto;
+      height: auto;
+    }
+  }
+h2{
+  font-family: 'Edu TAS Beginner', cursive;
+  font-family: 'Kaushan Script', cursive;
+  font-family: 'Raleway', sans-serif;
+}
+.p{
+  font-family: 'Edu TAS Beginner', cursive;
+  font-family: 'Kaushan Script', cursive;
+  font-family: 'Raleway', sans-serif; 
+}
+@media (max-width: 600px){
+  img.img-fluid.shadow-lg.bg-body.rounded-5.image6 {
+     max-width: 70%;
+ }
+}
+.c{
+  position: relative;
+  text-align: center;
+}

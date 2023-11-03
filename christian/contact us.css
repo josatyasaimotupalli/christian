@@ -1,0 +1,21 @@
+.p{
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Raleway', sans-serif; 
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+  }
+  .centered {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
